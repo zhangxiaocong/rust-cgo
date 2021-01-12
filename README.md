@@ -80,3 +80,8 @@ make run
 
 1. Rust中所有权问题
 2. 内存安全, Go语言和C语言内存模型存在差异
+
+补充：
+cargo build --relase
+Linux 上为 .so, MacOS 上为 .dylib, Windows 上为 .dll
+

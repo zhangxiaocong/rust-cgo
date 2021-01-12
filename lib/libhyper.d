@@ -1,0 +1,1 @@
+/Users/houzi/Documents/rust-cgo/lib/target/release/libhyper.dylib: /Users/houzi/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/cbindgen-0.12.2/tests/rust /Users/houzi/Documents/rust-cgo/lib/build.rs /Users/houzi/Documents/rust-cgo/lib/src/lib.rs
